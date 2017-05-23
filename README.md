@@ -1,1 +1,1 @@
-# JoeyHuang
+# JoeyHuang's Python learning notes
